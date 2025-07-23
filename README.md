@@ -9,6 +9,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 1   | Basic Input & Conditions    | [day01_basics.ipynb](day01_basics.ipynb)  |
 | 2   | Ranges, Lists & Input       | [Day02_ranges_lists.py](Day02_ranges_lists.py) |
 | 3   | List Slicing & Mutation   | [day03_list_slicing.py](day03_list_slicing.py) |
+| 3b  | Tuples vs Lists Exploration | [day03b_tuples_vs_lists.py](day03b_tuples_vs_lists.py) |
 
 ## 🚀 Why This Repo Exists
 

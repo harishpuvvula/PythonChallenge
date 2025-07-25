@@ -11,6 +11,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 3   | List Slicing & Mutation   | [day03_list_slicing.py](day03_list_slicing.py) |
 | 3b  | Tuples vs Lists Exploration | [day03b_tuples_vs_lists.py](day03b_tuples_vs_lists.py) |
 | 4   | Conditionals and List Logic | [day04_conditionals_and_list_logic.py](day04_conditionals_and_list_logic.py) |
+| 5   | Dictionaries: Creation, Access, and Mutability | [day05_dictionaries_basics.py](day05_dictionaries_basics.py) |
+
 
 ## 🚀 Why This Repo Exists
 

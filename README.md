@@ -12,6 +12,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 3b  | Tuples vs Lists Exploration | [day03b_tuples_vs_lists.py](day03b_tuples_vs_lists.py) |
 | 4   | Conditionals and List Logic | [day04_conditionals_and_list_logic.py](day04_conditionals_and_list_logic.py) |
 | 5   | Dictionaries: Creation, Access, and Mutability | [day05_dictionaries_basics.py](day05_dictionaries_basics.py) |
+| 6   | Dictionaries: Nesting, Sets, and Cross-Mapping | [day06_dict_nesting_and_set_operations.py](day06_dict_nesting_and_set_operations.py) |
+
 
 
 ## 🚀 Why This Repo Exists

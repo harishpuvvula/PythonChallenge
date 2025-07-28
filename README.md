@@ -15,6 +15,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 6   | Dictionaries: Nesting, Sets, and Cross-Mapping | [day06_dict_nesting_and_set_operations.py](day06_dict_nesting_and_set_operations.py) |
 | 7   | Nested Dictionary Basics | [day07_nested_dict_basics.py](day07_nested_dict_basics.py) |
 | 8   | Dict Copy Dynamics 🧪 | [day08_dict_copy_behavior.py](day08_dict_copy_behavior.py) |
+|8b  |  User inputs and while loops | [day08b_user_input_and_loops.py](day08b_user_input_and_loops.py). |
 
 
 

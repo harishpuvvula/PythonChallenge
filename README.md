@@ -18,6 +18,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 |8b  |  User inputs and while loops | [day08b_user_input_and_loops.py](day08b_user_input_and_loops.py). |
 | 9   | While Loop Practice | [day09_while_loop_practice.py](day09_while_loop_practice.py) |
 | 10   | While Loops and Input Logic | [day10_while_loops_and_input_logic.py](day10_while_loops_and_input_logic.py) |
+| 11  | Getting Started with Functions | [day11_functions_basics.py](day11_functions_basics.py) |
+
 
 
 

@@ -21,6 +21,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 11  | Getting Started with Functions | [day11_functions_basics.py](day11_functions_basics.py) |
 | 12   | Functions with Lists: Passing, Formatting & In-place Mutation | [day12_functions_and_list_mutation.py](./day12_functions_and_list_mutation.py) |
 | 13  | Function Mutability, Tuples, Shallow Copies, and Variable-Length Arguments | [day13_function_mutability_and_varargs.py](day13_function_mutability_and_varargs.py) |
+| 14  | Variable-Length Arguments & Unpacking | [day14_variable_arguments_and_unpacking.py](day14_variable_arguments_and_unpacking.py) |
+
 
 
 

@@ -13,11 +13,11 @@ def make_pizza(size, *toppings):
   for topping in toppings:
     print(f"- {topping}")
     
-def deliver_pizza(name):
+def deliver(name):
    address = input ("Enter the address of delivery")
    print(f"The pizza for {name} must to be delivered to {address}")
    
 def seek_feedback():
-    rating = input("Please share your feedback: 1- 5")
+    rating = input("Please share your feedback for pizza: 1- 5")
     print (rating)
  

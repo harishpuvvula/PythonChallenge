@@ -29,7 +29,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 17B | Modular Pasta Function Module | [pasta.py](pasta.py) |
 | 18  | Class Basics: Automobile Example | [day18_class_basics_automobile.py](day18_class_basics_automobile.py)
 | 18B | Class Attribute Defaults & Scope | [day18b_class_attribute_defaults_and_scope.py](day18b_class_attribute_defaults_and_scope.py) |
-
+| 19 | Class Scope & Shadowing | [day18c_class_scope_and_shadowing.py](day18c_class_scope_and_shadowing.py) |
 
 
 

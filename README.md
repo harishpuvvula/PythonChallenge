@@ -31,6 +31,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 18B | Class Attribute Defaults & Scope | [day18b_class_attribute_defaults_and_scope.py](day18b_class_attribute_defaults_and_scope.py) |
 | 19 | Class Scope & Shadowing | [day19_class_scope_and_shadowing.py](day19_class_scope_and_shadowing.py) |
 | 20  | Single Inheritance & Attribute Overriding | [day20_single_inheritance_and_attribute_overriding.py](day20_single_inheritance_and_attribute_overriding.py) |
+| 21  | Class Inheritance & Method Overriding | [day21_class_inheritance_and_overriding.py](day21_class_inheritance_and_overriding.py) |
 
 
 

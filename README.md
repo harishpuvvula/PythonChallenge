@@ -32,6 +32,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 19 | Class Scope & Shadowing | [day19_class_scope_and_shadowing.py](day19_class_scope_and_shadowing.py) |
 | 20  | Single Inheritance & Attribute Overriding | [day20_single_inheritance_and_attribute_overriding.py](day20_single_inheritance_and_attribute_overriding.py) |
 | 21  | Class Inheritance & Method Overriding | [day21_class_inheritance_and_overriding.py](day21_class_inheritance_and_overriding.py) |
+| 22  | Class Composition – Car & Engine Example | [day22_class_composition_car_engine.py](day22_class_composition_car_engine.py) |
 
 
 

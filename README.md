@@ -36,7 +36,9 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 23 | Class Composition - Check Engine Status | [day23_composition_check_engine_status.py] (day23_composition_check_engine_status.py) |
 | 24  | Multi-Class Composition | [day24_multi_class_composition.py](day24_multi_class_composition.py) |
 | 25 | Class Composition and Modules | [day25_class_composition-modules.zip](day25_class_composition-modules.zip)|
-| 26 | Exploring File Operations with pathlib | [day26_pathlib_file_ops.py](day26_pathlib_file_ops.py)
+| 26 | Exploring File Operations with pathlib | [day26_pathlib_file_ops.py](day26_pathlib_file_ops.py) |
+| 27 | Practiced opening files in various modes | [day27_guestbook.py](day27_guestbook.py) |
+
 
 
 

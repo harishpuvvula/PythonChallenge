@@ -38,6 +38,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 25 | Class Composition and Modules | [day25_class_composition-modules.zip](day25_class_composition-modules.zip)|
 | 26 | Exploring File Operations with pathlib | [day26_pathlib_file_ops.py](day26_pathlib_file_ops.py) |
 | 27 | Practiced opening files in various modes | [day27_guestbook.py](day27_guestbook.py) |
+| 28 | Exploring Python String Functions | [day28_string_functions.py](day28_string_functions.py) |
 
 
 

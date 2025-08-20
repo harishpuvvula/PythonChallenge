@@ -41,7 +41,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 28 | Exploring Python String Functions | [day28_string_functions.py](day28_string_functions.py) |
 | 29 | Revisiting list comprehension  | [day29_even_sum.py](day29_even_sum.py) |
 | 30 | Logging current date and time to files | [day30_log_writer.py](day30_log_writer.py)|
-
+| 31  | First matplotlib plot (squared numbers) | [day31_first_plot.py](day31_first_plot.py) |
 
 
 

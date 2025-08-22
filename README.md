@@ -1,4 +1,4 @@
-# 🐍 Python Challenge - 30 Days of Code
+<img width="609" height="556" alt="image" src="https://github.com/user-attachments/assets/a58c8c0a-b215-4287-9e1b-4a0d3b6eeac5" /># 🐍 Python Challenge - 30 Days of Code
 
 A daily commitment to push Python code that reflects hands-on learning in AI, ML, and core programming.
 
@@ -42,7 +42,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 29 | Revisiting list comprehension  | [day29_even_sum.py](day29_even_sum.py) |
 | 30 | Logging current date and time to files | [day30_log_writer.py](day30_log_writer.py)|
 | 31  | First matplotlib plot (squared numbers) | [day31_first_plot.py](day31_first_plot.py) |
-| 32 | Graph name, legends, X and Y axis values | [day32_matplotlib_graph_legends_details.py](day32_matplotlib_graph_legends_details)
+| 32 | Graph name, legends, X and Y axis values | [day32_matplotlib_graph_legends_details.py](day32_matplotlib_graph_legends_details) !
+| 33 | Reinforced yesterday work on matplotlib | [day33_plot_reinforcement.py](day33_plot_reinforcement.py) |
 
 
 

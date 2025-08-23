@@ -44,6 +44,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 31  | First matplotlib plot (squared numbers) | [day31_first_plot.py](day31_first_plot.py) |
 | 32 | Graph name, legends, X and Y axis values | [day32_matplotlib_graph_legends_details.py](day32_matplotlib_graph_legends_details) !
 | 33 | Reinforced yesterday work on matplotlib | [day33_plot_reinforcement.py](day33_plot_reinforcement.py) |
+| 34 | Used Seaborn class on matplotlib | [day34_scatter_squares_cubes.py] (day34_scatter_squares_cubes.py) |
 
 
 

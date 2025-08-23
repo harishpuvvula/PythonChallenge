@@ -1,4 +1,4 @@
-<img width="609" height="556" alt="image" src="https://github.com/user-attachments/assets/a58c8c0a-b215-4287-9e1b-4a0d3b6eeac5" /># 🐍 Python Challenge - 30 Days of Code
+🐍 Python Challenge - 30 Days of Code
 
 A daily commitment to push Python code that reflects hands-on learning in AI, ML, and core programming.
 

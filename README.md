@@ -46,7 +46,8 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 33 | Reinforced yesterday work on matplotlib | [day33_plot_reinforcement.py](day33_plot_reinforcement.py) |
 | 34 | Used Seaborn class on matplotlib | [day34_scatter_squares_cubes.py] (day34_scatter_squares_cubes.py) |
 | 35  | `matplotlib` scatter plots.                                  | [day35_scatter_plot_with_color.py] (day35_scatter_plot_with_color.py) |
-| 36 | Practiced Python oneliners  | [day36_oneliner_practice.py](day36_oneliner_practice.py)
+| 36 | Practiced Python oneliners  | [day36_oneliner_practice.py](day36_oneliner_practice.py)|
+| 37 | Oneliners for strings |  [day37_string_oneliners.py](day37_string_oneliners.py) |
 
 
 

@@ -48,7 +48,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 35  | `matplotlib` scatter plots.                                  | [day35_scatter_plot_with_color.py] (day35_scatter_plot_with_color.py) |
 | 36 | Practiced Python oneliners  | [day36_oneliner_practice.py](day36_oneliner_practice.py)|
 | 37 | Oneliners for strings |  [day37_string_oneliners.py](day37_string_oneliners.py) |
-
+| 38 | Streak preservatio  | [ [day38_streak.py](day38_streak.py)|
 
 
 

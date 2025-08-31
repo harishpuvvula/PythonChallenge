@@ -51,6 +51,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 38 | Streak preservatio  | [ [day38_streak.py](day38_streak.py)|
 | 39 | Streak Presevation 2 | [day39_StreakCheat2.py](day39_StreakCheat2.py)|
 | 40 | Streak Preservation 3  [[day40_streak.py](day40_streak.ipynb) |
+| 41 | Streak Preservation 3  [[day41_streak.py](day41_streak.ipynb) |
 
 
 

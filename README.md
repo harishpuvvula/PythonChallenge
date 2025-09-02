@@ -53,6 +53,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 40 | Streak Preservation 3 | [[day40_streak.py](day40_streak.ipynb) |
 | 41 | Streak Preservation 3 | [[day41_streak.py](day41_streak.ipynb) |
 | 42 | Python Onliners with some advanced utility | [day42_one_liners2.py](day42_one_liners2.py) |
+| 43 | Python oneliners for sets and conditionals | [day43_one_liners3.py](day43_one_liners3.py) |
 
 
 

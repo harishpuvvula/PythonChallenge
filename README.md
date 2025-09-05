@@ -55,6 +55,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 42 | Python Onliners with some advanced utility | [day42_one_liners2.py](day42_one_liners2.py) |
 | 43 | Python oneliners for sets and conditionals | [day43_one_liners3.py](day43_one_liners3.py) |
 | 44 | Python onelner for flattening the nested lists | [day44_one_liners4](day44_one_liners4) |
+| 45 | Preserving the streak | [day45_streak_preserve.py](day45_streak_preserve.py)|
 ## 🚀 Why This Repo Exists
 
 To build consistent execution muscle, sharpen Python skills, and document a 30-day learning sprint with real outputs.

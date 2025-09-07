@@ -57,6 +57,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 44 | Python onelner for flattening the nested lists | [day44_one_liners4](day44_one_liners4) |
 | 45 | Preserving the streak | [day45_streak_preserve.py](day45_streak_preserve.py)|
 | 46 | Preserving the streak  | [day46_streak.py](day46_streak.py) |
+| 47 | Preserving the streak | [day47_streak.py](day47_streak.py) |
 ## 🚀 Why This Repo Exists
 
 To build consistent execution muscle, sharpen Python skills, and document a 30-day learning sprint with real outputs.

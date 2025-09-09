@@ -59,6 +59,7 @@ A daily commitment to push Python code that reflects hands-on learning in AI, ML
 | 46 | Preserving the streak  | [day46_streak.py](day46_streak.py) |
 | 47 | Preserving the streak | [day47_streak.py](day47_streak.py) |
 | 48 | one liners on extracting just numbers in a string | [day48_onliners5.py](day48_oneliners5.py) |
+| 49 | Function Overloading | [day49_functionoverloading.py](day49_functionoverloading.py) |
 ## 🚀 Why This Repo Exists
 
 To build consistent execution muscle, sharpen Python skills, and document a 30-day learning sprint with real outputs.
